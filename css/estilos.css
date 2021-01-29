@@ -46,3 +46,8 @@ body
 {
     font-size: 20px;
 }
+#footer
+{
+    text-align: center;
+    background: rgb(100,100,100);
+}
