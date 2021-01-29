@@ -7,8 +7,15 @@ body
     padding: 0;
     font-size: 16px;
 }
+#imagen
+{
+    width: 30px;
+    height: 30px;
+}
 #cabecera
 {
+    display: flex;
+    align-items: center;
     background: #33a;
     color: white;
     margin: 0;
